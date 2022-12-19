@@ -5,3 +5,7 @@
     min-height: 100vh;
 };
 
+.dark-theme {
+    background-color: black;
+    color: whitesmoke;
+};
